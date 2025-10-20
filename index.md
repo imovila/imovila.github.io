@@ -1,3 +1,4 @@
+  
 ## DRY - "DON'T REPEAT YOURSELF"  
 The idea here is simple. You should not duplicate the code and reuse it as much as possible.
 Do you duplicate the same line 5 times? Write a loop. 
