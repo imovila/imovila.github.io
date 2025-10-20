@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-default-layout
+title: "noname"
+theme: jekyll-theme-cayman
